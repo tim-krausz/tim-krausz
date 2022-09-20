@@ -3,6 +3,7 @@
 - 🌱 I’m always learning new ways to solve hard problems. Currently, I'm focused on understanding how the brain computes reward predictions.
 - 🔬 PhD candidate in Neuroscience at UCSF.
 - 📫 For questions or to get in touch, please email krausz.tim@gmail.com.
+- *Unless explicitly noted, I am the author of all code on this account.*
 
 <!---
 tim-krausz/tim-krausz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
